@@ -1,12 +1,26 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# Legal Case Prediction System
 
-# Run and deploy your AI Studio app
+A web-based platform that analyzes case details and provides predictions on case type, relevant laws, outcome probabilities, compensation estimates, and court recommendations.
 
-This contains everything you need to run your app locally.
+## Features
 
-View your app in AI Studio: https://ai.studio/apps/fb92397f-a7bb-4597-a46f-6230355d0528
+* Case Analysis
+* Legal Issue Identification
+* Outcome Prediction
+* Compensation Estimation
+* Court Recommendation
+
+## Technologies
+
+* HTML
+* CSS
+* JavaScript
+* Gemini API
+
+## Disclaimer
+
+This project is for educational purposes only and does not constitute legal advice.
+
 
 ## Run Locally
 
