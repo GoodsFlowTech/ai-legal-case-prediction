@@ -1,0 +1,6 @@
+{
+  "name": "Indian Court Case Prediction & Legal Analyzer",
+  "description": "AI-powered legal analysis, case classification, applicable IPC/BNS sections identifier, conviction probability, expected punishments, and bail predictor under Indian Law.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
